@@ -6,10 +6,6 @@ A simple backend service for a job board built with Node.js, TypeScript, and MyS
 
 
 
-##  API documentation
-
-#### Stats
-
 ## API Endpoints
 
 The following API endpoints are available for managing job postings:
